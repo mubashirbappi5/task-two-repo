@@ -1,0 +1,39 @@
+*{
+    margin: 5px;
+}
+#header{
+    background-color: blueviolet;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: left;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.container{
+    background-color: rgb(226, 83, 17);
+    padding: 10px;
+}
+#blog2{
+    background-color: tomato;
+    padding: 20px;
+    margin-left: 200px;
+    
+    
+}
+#blog3{
+    background-color: crimson;
+    padding: 10px;
+}
+div{
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: inset;
+    border-top: 3px solid seagreen;
+}
+#blog2:hover{
+    margin-left: 0px;
+    cursor: pointer;
+}
